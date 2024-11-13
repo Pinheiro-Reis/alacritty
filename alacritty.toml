@@ -1,4 +1,5 @@
 [general]
 import = [
 "~/.config/alacritty/themes/omni.toml",
+"~/.config/alacritty/font.toml"
 ]
